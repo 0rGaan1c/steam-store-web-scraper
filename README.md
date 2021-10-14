@@ -1,6 +1,7 @@
 # web-scraping
 
 Learned the very basics of Web Scraping and learned how I can build my own scraper with Python's [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library.
+[#LOCALHACKDAY](https://localhackday.mlh.io/)
 
 I wrote a simple script that fetch the basic info about the game from a [Steam](https://store.steampowered.com/) page(the page should have the games row column). 
 
