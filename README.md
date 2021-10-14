@@ -2,8 +2,9 @@
 
 Learned the very basics of Web Scraping and used the Python's [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library to write a script that scrap the Home Page of Steam Store and store the result in a text file.
 
-- Screenshot
-  ![screenshot](./screenshot.png)
+### Screenshot
+
+![screenshot](./screenshot.png)
 
 ### Resources that I found useful
 
